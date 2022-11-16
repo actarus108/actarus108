@@ -1,3 +1,8 @@
+
+<p align="center" width="100%">
+  <img align="center" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
+</p>
+
 - 👋 Hi, I’m @actarus108
 - 👀 I’m interested in
   - .Net Development
@@ -8,6 +13,10 @@
   - Rust
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
+
+<p align="center" width="100%">
+  <img align="center" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
+</p>
 
 <table>
   <tr>

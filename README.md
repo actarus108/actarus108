@@ -18,6 +18,9 @@
   <img align="center" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 </p>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/actarus108/actarus108/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 <table>
   <tr>
     <td>You are visitor</td>
@@ -29,3 +32,4 @@
 actarus108/actarus108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
